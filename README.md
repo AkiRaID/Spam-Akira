@@ -1,5 +1,5 @@
 # Spam Call Unlimited Akira
-![image](https://github.com/AkiRaID/SpamAkira)
+(https://github.com/AkiRaID/SpamAkira)
 Spam Call Unlimited Terbaru menggunakan bahasa pemrograman python
 
 ## Cara Install
